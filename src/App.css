@@ -1,0 +1,22 @@
+
+.main-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: ghostwhite
+}
+
+.ui.sub.header {
+  font-size: 24px;
+  line-height: 1.25;
+}
+.ui.horizontal.list .list>.item, .ui.horizontal.list>.item {
+  font-size: 1rem;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 24px;
+  color: var(--color-text-secondary);
+}
